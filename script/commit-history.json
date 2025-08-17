@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "b90504fe047dd100f60f555a318ddcfb022fedc0",
     "author": "Juan Pablo",
     "commit": {
       "date": "2025-08-17T20:40:34.000Z",
       "message": "Se inicia el proyecto",
-      "url": "https://github.com/Jpriveram/TDDLabBaseProject2025/commit/HEAD"
+      "url": "https://github.com/Jpriveram/TDDLabBaseProject2025/commit/b90504fe047dd100f60f555a318ddcfb022fedc0"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2025-08-17"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Juan Pablo",
+    "commit": {
+      "date": "2025-08-17T20:53:35.000Z",
+      "message": "Se agrego la multiplicacion",
+      "url": "https://github.com/Jpriveram/TDDLabBaseProject2025/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 15,
+      "deletions": 3,
       "date": "2025-08-17"
     },
     "coverage": 100,
